@@ -1,4 +1,4 @@
-# Rappresentazione-Grafica-Di-Un-Segnale-Sinusoidale
+# Rappresentazione Grafica di un Segnale Sinusoidale
 Rappresentazione Grafica Di Un Segnale Sinusoidale Con Python 3 E La Fantastica Libreria Matplotlib
 
 Ricordando che un segnale sinusoidale può essere descritto da equazioni del tipo: y(t) = V_max * sin(ω*t + φ), dove: V_max è l'ampiezza o il valore massimo del segnale, ω è la pulsazione che si calcola ω = 2*π*f, dove f è la frequenza che indica il numero di volte in cui il periodo si ripete in 1 secondo, t è la variabile indipendente e φ è la fase del segnale.
